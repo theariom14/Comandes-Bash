@@ -1,4 +1,4 @@
-### Exercici 1:
+Exercici 1:
 
 a)
 La diferencia entre emular i virtualitzar un sistema es:
@@ -45,3 +45,10 @@ Comandes utilitzades:
 - free -h: té el seu origen de expresió en "free (lliure)".
 
 - man: té el seu origen de expresió en "manual".
+
+
+Exercici 2:
+
+a)
+• Crea un directori anomenat docs_bash dins de la teva carpeta personal.
+
