@@ -10,3 +10,38 @@ La diferencia entre emular i virtualitzar un sistema es:
 
 b)
 Comandes utilitzades: 
+- pwd: té el seu origen de expresió en "Print Working Directory".
+
+- ls: té el seu origen de expresió en "List".
+
+- cd: té el seu origen de expresió en "Change Directory".
+
+- mkdir: té el seu origen de expresió en "Make Directory".
+
+- touch: té el seu origen de expresió en "touch".
+
+- cp: té el seu origen de expresió en "Copy".
+
+- mv: té el seu origen de expresió en "Move".
+
+- rm: té el seu origen de expresió en "Remove".
+
+- cat: té el seu origen de expresió en "Concatenate".
+
+- head / tail: té el seu origen de expresió en "head (adalt perque es cap), tail (abaix perque es cua)".
+
+- grep: té el seu origen de expresió en "prove d'una comanda de l'editor de text clasic".
+
+- nano / vim: té el seu origen de expresió en "Print Working Directory".
+
+- top / htop: té el seu origen de expresió en "Print Working Directory".
+
+- ps: té el seu origen de expresió en "Print Working Directory".
+
+- kill: té el seu origen de expresió en "Print Working Directory".
+
+- df -h: té el seu origen de expresió en "Print Working Directory".
+
+- free -h: té el seu origen de expresió en "Print Working Directory".
+
+- man: té el seu origen de expresió en "Print Working Directory".
