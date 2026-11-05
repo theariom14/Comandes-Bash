@@ -1,0 +1,12 @@
+### Exercici 1:
+
+a)
+La diferencia entre emular i virtualitzar un sistema es:
+  Virtualitzar: Es una capa de programari anomenada hipervisor reparteix els recursos físics de l'ordinador directament entre el sistema amfitrió i el convidat. El procesador executa ordres de forma nativa, sense que faci falta traduirlo.
+
+  Emular: Simula una maquina real pero sense que tigui cap component fisic real.
+
+  Emular consoles: Utilitzen xips molt més personalitzats que l'ordinador no ente de forma nativa. I per a poder executar-ho ho ha de fer amb unes instruccions molt especifiques pas a pas.
+
+b)
+Comandes utilitzades: 
