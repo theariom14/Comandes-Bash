@@ -13,12 +13,13 @@ Comandes utilitzades:
 - pwd: té el seu origen de expresió en "Print Working Directory".
 
 - ls: té el seu origen de expresió en "List".
-  <img width="1033" height="65" alt="image" src="https://github.com/user-attachments/assets/8addf3e6-4cae-4fd9-a9ea-99975d95d079" />
+<img width="1033" height="65" alt="image" src="https://github.com/user-attachments/assets/8addf3e6-4cae-4fd9-a9ea-99975d95d079" />
 
 - cd: té el seu origen de expresió en "Change Directory".
 <img width="340" height="42" alt="image" src="https://github.com/user-attachments/assets/d9a07b4e-4945-449e-b0f9-f635e32423a5" />
 
 - mkdir: té el seu origen de expresió en "Make Directory".
+<img width="346" height="48" alt="image" src="https://github.com/user-attachments/assets/473737bb-e691-4ce5-87af-16272fecee33" />
 
 - touch: té el seu origen de expresió en "touch".
 
@@ -27,6 +28,7 @@ Comandes utilitzades:
 - mv: té el seu origen de expresió en "Move".
 
 - rm: té el seu origen de expresió en "Remove".
+<img width="320" height="35" alt="image" src="https://github.com/user-attachments/assets/7408ae38-da17-4786-81d1-45604b80f7ad" />
 
 - cat: té el seu origen de expresió en "Concatenate".
 
