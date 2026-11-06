@@ -13,8 +13,10 @@ Comandes utilitzades:
 - pwd: té el seu origen de expresió en "Print Working Directory".
 
 - ls: té el seu origen de expresió en "List".
+  <img width="1033" height="65" alt="image" src="https://github.com/user-attachments/assets/8addf3e6-4cae-4fd9-a9ea-99975d95d079" />
 
 - cd: té el seu origen de expresió en "Change Directory".
+<img width="340" height="42" alt="image" src="https://github.com/user-attachments/assets/d9a07b4e-4945-449e-b0f9-f635e32423a5" />
 
 - mkdir: té el seu origen de expresió en "Make Directory".
 
@@ -30,7 +32,7 @@ Comandes utilitzades:
 
 - head / tail: té el seu origen de expresió en "head (adalt perque es cap), tail (abaix perque es cua)".
 
-- grep: té el seu origen de expresió en "prove d'una comanda de l'editor de text clasic".
+- vi: té el seu origen de expresió en "visual mode".
 
 - nano / vim: té el seu origen de expresió en "fa referencia a que es mes petit".
 
@@ -38,11 +40,11 @@ Comandes utilitzades:
 
 - ps: té el seu origen de expresió en "Process Status".
 
-- kill: té el seu origen de expresió en "Kill (matar)".
+- help: té el seu origen de expresió en "help/ajuda".
 
-- df -h: té el seu origen de expresió en "Disk free".
+- apt update: té el seu origen de expresió en "Advanced Package Tool".
 
-- free -h: té el seu origen de expresió en "free (lliure)".
+- apt upgrade: té el seu origen de expresió en "actualitzar a una versió superior".
 
 - man: té el seu origen de expresió en "manual".
 
