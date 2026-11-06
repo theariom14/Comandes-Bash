@@ -1,6 +1,6 @@
-Exercici 1:
+### Exercici 1:
 
-a)
+# a)
 La diferencia entre emular i virtualitzar un sistema es:
   Virtualitzar: Es una capa de programari anomenada hipervisor reparteix els recursos físics de l'ordinador directament entre el sistema amfitrió i el convidat. El procesador executa ordres de forma nativa, sense que faci falta traduirlo.
 
@@ -8,7 +8,7 @@ La diferencia entre emular i virtualitzar un sistema es:
 
   Emular consoles: Utilitzen xips molt més personalitzats que l'ordinador no ente de forma nativa. I per a poder executar-ho ho ha de fer amb unes instruccions molt especifiques pas a pas.
 
-b)
+# b)
 Comandes utilitzades: 
 - pwd: té el seu origen de expresió en "Print Working Directory".
 
@@ -50,11 +50,23 @@ Comandes utilitzades:
 
 - man: té el seu origen de expresió en "manual".
 
-FALTA PONER FOTOS DEL B Y HACER EL C
+# c)
+Compilat: (arxiu .cpp)
+Transforma tot el codi font directament en un fitxer binari per a que l'ordinador ho entengui, ho fa avans de fer cap altre execució, això fa que el programa funcioni d'una forma més eficient.
 
-Exercici 2:
+  Fase 1: Es redacta el codi font i es desa amb l'extensió .cpp.
 
-a)
+  Fase 2: Es fa servir un compilador per traduir tot el conjunt d'instruccions en un executable.
+
+  Fase 3: Es llança i s'executa el fitxer resultant directament a la màquina.
+
+  
+Interpretat: (arxiu .sh)
+S'utilitza l'intèrpret (un component extern) que llegeix, tradueix i executa el codi, tot a la vegada, mentre el sistema executa les seves accións.
+
+### Exercici 2:
+
+# a)
 • Crea un directori anomenat docs_bash dins de la teva carpeta personal.
 
 <img width="373" height="49" alt="Screenshot 2026-11-05 125613" src="https://github.com/user-attachments/assets/00896c11-92e5-4382-9057-c1263a97a3bb" />
@@ -76,7 +88,7 @@ Utilitza $ echo "..." >> usuaris.log per crear un fitxer usuaris.log que registr
 <img width="780" height="64" alt="Screenshot 2026-11-05 132357" src="https://github.com/user-attachments/assets/b5208a22-f8b4-41b6-8cf3-8187ade39ae3" />
 
 
-b)
+# b)
 • Crea el script sys_check.sh a la carpeta scripts i mostra l'escructura del projecte amb $ ls * des del directory docs_bash.
 
 • Utilitza nano o vim per editar el fitxer, aquest ha d'imprimir la data actual i actualitzar la llibreria de paquets del sistema.
